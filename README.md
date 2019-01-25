@@ -3,6 +3,7 @@
 An atom package used to easily send code extracts to discord using webhooks.
 
 ![presentation_gif](https://i.imgur.com/OSBGowP.gif)
+
 [You can see the presentation on youtube for a higher quality](https://www.youtube.com/watch?v=x0w14s52B4k&feature=youtu.be)
 
 ## How to use the package
