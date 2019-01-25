@@ -1,6 +1,6 @@
 {
   "context-menu": {
-    "atom-text-editor": [
+    "atom-workspace": [
       {
         "label": "Send to your Discord webhook",
         "command": "discord-send-code-to-webhook:sendSelectionToDiscord"

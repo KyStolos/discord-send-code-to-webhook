@@ -10,6 +10,8 @@
   ],
   "activationCommands": {
     "atom-workspace": "discord-send-code-to-webhook:sendSelectionToDiscord",
+    "atom-text-editor": "discord-send-code-to-webhook:sendSelectionToDiscord",
+    "atom-text-editor": "discord-send-code-to-webhook:sendSelectionToDiscord2",
     "atom-text-editor": "discord-send-code-to-webhook:sendSelectionToDiscord3"
   },
   "repository": "https://github.com/KyStolos/discord-send-code-to-webhook",
