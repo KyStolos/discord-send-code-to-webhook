@@ -1,7 +1,7 @@
 {
   "name": "discord-send-code-to-webhook",
   "main": "./lib/discord-send-code-to-webhook",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Package used to easily send code extracts to discord using webhooks.",
   "keywords": [
     "discord",
@@ -9,16 +9,14 @@
     "send"
   ],
   "activationCommands": {
-    "atom-workspace": [
-      "discord-send-code-to-webhook:sendSelectionToDiscord",
-      "discord-send-code-to-webhook:sendSelectionToDiscord2",
-      "discord-send-code-to-webhook:sendSelectionToDiscord3",
-    ]
+    "atom-workspace": "discord-send-code-to-webhook:sendSelectionToDiscord",
+    "atom-text-editor": "discord-send-code-to-webhook:sendSelectionToDiscord2",
+    "atom-text-editor": "discord-send-code-to-webhook:sendSelectionToDiscord3"
   },
   "repository": "https://github.com/KyStolos/discord-send-code-to-webhook",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0"
+    "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {}
 }
