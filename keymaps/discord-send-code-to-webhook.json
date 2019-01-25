@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-q": "discord-send-code-to-webhook:sendSelectionToDiscord"
+  }
+}
