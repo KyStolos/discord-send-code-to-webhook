@@ -8,7 +8,7 @@ An atom package used to easily send code extracts to discord using webhooks.
 
 1. Go to your package settings `Packages` -> `Settings View` -> `Manage package`
 2. Find the `discord-send-code-to-webhook` package, click on `Settings`
-3. Paste your webhook URL in the config field, you can up to 3 webhooks at once, but only the first has a Keybinding for it
+3. Paste your webhook URL in the config field, you can have up to 3 webhooks at once, but only the first has a Keybinding for it
 
 ### Send code to a webhook
 
