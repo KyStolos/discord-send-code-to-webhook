@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "discord-send-code-to-webhook:toggle"
   },
-  "repository": "https://github.com/atom/discord-send-code-to-webhook",
+  "repository": "https://github.com/KyStolos/discord-send-code-to-webhook",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
