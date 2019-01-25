@@ -2,10 +2,6 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle discord-send-code-to-webhook",
-        "command": "discord-send-code-to-webhook:toggle"
-      },
-      {
         "label": "Send to your Discord webhook",
         "command": "discord-send-code-to-webhook:sendSelectionToDiscord"
       },
@@ -18,21 +14,5 @@
         "command": "discord-send-code-to-webhook:sendSelectionToDiscord3"
       }
     ]
-  },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "discord-send-code-to-webhook",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "discord-send-code-to-webhook:toggle"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  }
 }
