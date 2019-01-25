@@ -8,6 +8,14 @@
       {
         "label": "Send to your Discord webhook",
         "command": "discord-send-code-to-webhook:sendSelectionToDiscord"
+      },
+      {
+        "label": "Send to your second Discord webhook",
+        "command": "discord-send-code-to-webhook:sendSelectionToDiscord2"
+      },
+      {
+        "label": "Send to your third Discord webhook",
+        "command": "discord-send-code-to-webhook:sendSelectionToDiscord3"
       }
     ]
   },
