@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
+  "atom-text-editor": {
     "ctrl-q": "discord-send-code-to-webhook:sendSelectionToDiscord"
   }
 }

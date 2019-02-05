@@ -1,3 +1,3 @@
-## 0.1.0 - First Release
-* Every feature added
-* Every bug fixed
+## 1.2.1 - Cleaning
+* Removed some useless stuff
+* Changed the menus
