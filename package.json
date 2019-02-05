@@ -1,7 +1,7 @@
 {
   "name": "discord-send-code-to-webhook",
   "main": "./lib/discord-send-code-to-webhook",
-  "version": "1.0.8",
+  "version": "1.1.0",
   "description": "Package used to easily send code extracts to discord using webhooks.",
   "keywords": [
     "discord",
